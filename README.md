@@ -4,57 +4,49 @@ StudentSphere is a decentralized social hub tailored specifically for college st
 
 ---
 
-# Features
-User Authentication (Firebase)
+## ✨ Features
 
-Dark Mode Toggle with Glassmorphism UI
+- **User Authentication**  
+  Secure login & registration using Firebase Authentication.
 
-Animated UI using Framer Motion
+- **Dark Mode Toggle with Glassmorphism UI**  
+  Sleek, modern interface with dark/light theme switching and glassmorphism design.
 
-Profile System
+- **Animated UI with Framer Motion**  
+  Smooth, engaging animations for better user experience.
 
-Editable profiles with skill tags
+- **Profile System**  
+  Editable profiles with skill tags, achievements, and bio.
 
-Interactive Feed
+- **Interactive Feed**  
+  Users can create posts, like, and comment in a shared feed.
 
-Post creation with like, comment
+- **Real-Time Chat**  
+  - Join chatrooms
+  - See who joined/left
+  - Send messages instantly
+  - Dark/light toggle for chat UI
 
-Real-Time Chat
+- **Skills Development Tracker**  
+  Set goals, track skill progress, and visualize milestones in real-time.
 
-Chatroom
-
-See who joined or left chats, Dark/light toggle
-
-Skills Development Tracker
-
-Set goals, track skill progress in real-time
-
-Resume Builder
-
-Canva-like templates, real-time preview, download as PDF
+- **Resume Builder**  
+  - Canva-like design templates
+  - Live preview
+  - Download resume as PDF
 
 ---
 
 # Tech Stack
 
-Frontend:
+### Frontend
+- HTML, CSS, JavaScript
+- Tailwind CSS
+- Framer Motion
 
-HTML, CSS, JavaScript
-
-Tailwind CSS
-
-Framer Motion
-
----
-
-# Backend / DB:
-
-Firebase (Authentication, Firestore, Storage)
+### Backend / Database
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
 
 ---
-
-# Tools:
-
-Git & GitHub
-
-Vercel (for deployment)
